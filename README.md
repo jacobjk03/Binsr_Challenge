@@ -308,7 +308,4 @@ This project is created for the hackathon challenge. All code is original and wr
 - ReportLab and PyMuPDF teams for excellent PDF libraries
 - Python community for supporting libraries
 
----
-
-**Generated with ❤️ for the 24-hour hackathon challenge**
 
